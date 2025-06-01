@@ -1,0 +1,22 @@
+{
+  "name": "genkit-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "genkit-cli": "^1.0.4"
+  },
+  "dependencies": {
+    "@genkit-ai/express": "^1.0.4",
+    "@genkit-ai/google-cloud": "^1.0.4",
+    "@genkit-ai/vertexai": "^1.0.4",
+    "genkit": "^1.0.4"
+  }
+}
